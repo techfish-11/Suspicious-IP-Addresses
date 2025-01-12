@@ -7,3 +7,5 @@ If you would like to help me compile a list of suspicious IPs, I would appreciat
 This IP address may have been used in attacks, so please use with caution.
 
 main.py allows you to remove duplicate ips, making it easy to contribute.
+
+If your IP address has been entered by mistake, please contact us and we will delete it promptly.
